@@ -14,11 +14,11 @@
             string name = Console.ReadLine();
             Console.WriteLine("Escribe tu Apellido:");
             string surname = Console.ReadLine();
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Escribe tu edad");
             string edad = Console.ReadLine();
             Console.WriteLine("¿Sabes programar? si/no");
             string progLang = Console.ReadLine();
-            Console.WriteLine("Hola soy, "+ name +" "+surname+", tengo "+edad+" años"+" y "+progLang + " ,se programar " );
+            Console.WriteLine("Hola soy, "+ name +" "+surname+", tengo "+edad+" años"+" y "+progLang + " sé programar " );
         }
     }
 }
